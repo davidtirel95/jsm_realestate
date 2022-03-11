@@ -16,7 +16,6 @@ Mainly Javascript
 ## Techs
 
 - Next.js
-- React
 - Chakra-ui
 - RapidApi
 - Vercel
