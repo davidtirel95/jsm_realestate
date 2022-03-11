@@ -11,7 +11,7 @@ I managed to build and deploy it in 8h, during this time I was able to :
 
 ## Languages
 
-Mostly Javascript
+Mainly Javascript
 
 ## Techs
 
